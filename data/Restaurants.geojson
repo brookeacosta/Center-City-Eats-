@@ -154,7 +154,7 @@
           "Name": "a.Bar", 
           "Type": "Bar", 
           "Price": "$$",
-          "Cuisine": "American", 
+          "Cuisine": "Wine Bar", 
           "Best For": "Cocktails",
           "HappyHour": "No"
         },
@@ -174,7 +174,7 @@
           "Name": "Superfolie", 
           "Type": "Bar", 
           "Price": "$",
-          "Cuisine": "American", 
+          "Cuisine": "Wine Bar", 
           "Best For": "Cocktails",
           "HappyHour": "No"
         },
@@ -634,7 +634,7 @@
           "Name": "Bloomsday Café", 
           "Type": "Restaurant", 
           "Price": "$$",
-          "Cuisine": "Spanish", 
+          "Cuisine": "Wine Bar", 
           "Best For": "Dinner",
           "HappyHour": "Yes"
         },
