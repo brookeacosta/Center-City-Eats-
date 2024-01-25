@@ -234,7 +234,7 @@
           "Name": "Vietnam Restaurant", 
           "Type": "Restaurant", 
           "Price": "$$",
-          "Cuisine": "Mediterranean", 
+          "Cuisine": "Vitenamese", 
           "Best For": "Lunch, Dinner",
           "HappyHour": "No"
         },
@@ -254,7 +254,7 @@
           "Name": "Emei", 
           "Type": "Restaurant", 
           "Price": "$$",
-          "Cuisine": "Szechuan", 
+          "Cuisine": "Chinese", 
           "Best For": "Noodles",
           "HappyHour": "Yes"
         },
@@ -294,7 +294,7 @@
           "Name": "Sang Kee Peking Duck House", 
           "Type": "Restaurant", 
           "Price": "$$",
-          "Cuisine": "Desserts", 
+          "Cuisine": "Chinese", 
           "Best For": "Dessert",
           "HappyHour": "No"
         },
@@ -314,7 +314,7 @@
           "Name": "Mango Mango Dessert", 
           "Type": "Café", 
           "Price": "$$",
-          "Cuisine": "Mediterranean", 
+          "Cuisine": "Dessert", 
           "Best For": "Brunch, Lunch",
           "HappyHour": "No"
         },
@@ -354,7 +354,7 @@
           "Name": "Vedge", 
           "Type": "Restaurant", 
           "Price": "$$$",
-          "Cuisine": "Vegan", 
+          "Cuisine": "American", 
           "Best For": "Dinner",
           "HappyHour": "Yes"
         },
@@ -394,7 +394,7 @@
           "Name": "Middle Child", 
           "Type": "Luncheonette", 
           "Price": "$$",
-          "Cuisine": "Sandwiches", 
+          "Cuisine": "American", 
           "Best For": "Lunch ",
           "HappyHour": "No"
         },
@@ -474,7 +474,7 @@
           "Name": "Han Dynasty", 
           "Type": "Restaurant", 
           "Price": "$$",
-          "Cuisine": "Szechuan", 
+          "Cuisine": "Chinese", 
           "Best For": "Lunch, Dinner",
           "HappyHour": "Yes"
         },
@@ -494,7 +494,7 @@
           "Name": "Sonny's Famous Steaks", 
           "Type": "Luncheonette", 
           "Price": "$$",
-          "Cuisine": "Sandwiches", 
+          "Cuisine": "American", 
           "Best For": "Lunch",
           "HappyHour": "Yes"
         },
@@ -554,7 +554,7 @@
           "Name": "Amina Philly", 
           "Type": "Restaurant", 
           "Price": "$$$",
-          "Cuisine": "Southern", 
+          "Cuisine": "American", 
           "Best For": "Brunch",
           "HappyHour": "No"
         },
@@ -614,7 +614,7 @@
           "Name": "Zahav", 
           "Type": "Restaurant", 
           "Price": "$$$$",
-          "Cuisine": "Middle Eastern", 
+          "Cuisine": "Mediterranean", 
           "Best For": "Dinner",
           "HappyHour": "No"
         },
