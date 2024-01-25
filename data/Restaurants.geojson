@@ -374,7 +374,7 @@
           "Name": "Double Knot", 
           "Type": "Restaurant", 
           "Price": "$$$",
-          "Cuisine": "Japanese", 
+          "Cuisine": "Sushi", 
           "Best For": "Sushi",
           "HappyHour": "Yes"
         },
@@ -434,7 +434,7 @@
           "Name": "Kinme", 
           "Type": "Restaurant", 
           "Price": "$$",
-          "Cuisine": "Japanese", 
+          "Cuisine": "Sushi", 
           "Best For": "Sushi",
           "HappyHour": "Yes"
         },
